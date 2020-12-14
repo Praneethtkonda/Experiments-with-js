@@ -1,2 +1,2 @@
-# LongPollClient
-A simple http long polling client written in node.js
+# Experiments with js
+Some simple experiments on js
